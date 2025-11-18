@@ -12,7 +12,9 @@ python3 src/calculadora.py
 Si nos muestra un error `ModuleNotFoundError: No module named "tkinter"`, tenemos que instalar el paquete `python-tk`:
 
 Para Python 3
+
 sudo apt update
+
 sudo apt install python3-tk
 
 

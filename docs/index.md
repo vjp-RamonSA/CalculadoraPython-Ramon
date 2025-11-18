@@ -6,7 +6,9 @@ Bienvenido a la calculadora gráfica hecha en Python.
 
 Para ejecutarlo tenemos que situarnos dentro de la carpeta del proyecto y ejecutar en el terminal de comandos python3 con el nombre del archivo .py
 
-cd CalculadoraPython
+cd 
+
+CalculadoraPython
 
 python3 src/calculadora.py
 
